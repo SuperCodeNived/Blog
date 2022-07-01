@@ -1,0 +1,62 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+
+.travel_mainDiv img{
+  width: 100%;
+border-radius: 15px;
+}
+
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+ margin: 20px;   
+}
+
+#travel{
+  color: rgb(136, 8, 19);  
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+
+body{
+    background-color: rgb(167, 210, 248);
+}
+
+.movie_head{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom:15px;
+
+}
+
+
+.movie_head i{
+  float: right;
+}
+
+.movie_text span{
+  color: rgb(214, 126, 12)
+}
+
+.book{
+  margin-bottom: 20px;
+
+}
+
+
+#contact iframe{
+  width: 100%
+}
+
+#img0, #img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8{
+
+width: 251px;
+height: 400px;
+}
